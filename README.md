@@ -15,9 +15,9 @@ Instructions for Visual Studio 2017:
 
 ## Disable Preview Tabs
 
-![...](https://raw.githubusercontent.com/tobiasschulz/vs2017/master/disable%20preview%20tabs.png)
+![...](https://raw.githubusercontent.com/tobiasschulz/vs2017-settings/master/disable%20preview%20tabs.png)
 
 ## Fonts
 
-![...](https://raw.githubusercontent.com/tobiasschulz/vs2017/master/font%20environment.png)
-![...](https://raw.githubusercontent.com/tobiasschulz/vs2017/master/font%20text%20editor.png)
+![...](https://raw.githubusercontent.com/tobiasschulz/vs2017-settings/master/font%20environment.png)
+![...](https://raw.githubusercontent.com/tobiasschulz/vs2017-settings/master/font%20text%20editor.png)
