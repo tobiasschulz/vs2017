@@ -1,4 +1,4 @@
-# VS 2017
+# My Visual Studio 2017 Settings
 
 ## Disable Arrow Icons for C# Files
 
@@ -15,4 +15,9 @@ Instructions for Visual Studio 2017:
 
 ## Disable Preview Tabs
 
-![...](https://github.com/tobiasschulz/vs2017/blob/master/disable%20preview%20tabs.png?raw=true)
+![...](https://raw.githubusercontent.com/tobiasschulz/vs2017/master/disable%20preview%20tabs.png)
+
+## Fonts
+
+![...](https://raw.githubusercontent.com/tobiasschulz/vs2017/master/font%20environment.png)
+![...](https://raw.githubusercontent.com/tobiasschulz/vs2017/master/font%20text%20editor.png)
