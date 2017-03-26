@@ -12,3 +12,7 @@ Instructions for Visual Studio 2017:
 - Go to HKEY_USERS\vs2017\Software\Microsoft\VisualStudio\15.0_<id>
 - Create new key UseSolutionNavigatorGraphProvider of DWORD (32-bit) type, value 0
 - Select HKEY_USERS\vs2017, File → Unload Hive
+
+## Disable Preview Tabs
+
+![...](https://github.com/tobiasschulz/vs2017/blob/master/disable%20preview%20tabs.png?raw=true)
